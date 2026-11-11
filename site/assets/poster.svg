@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 900 900">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e9ead6"/><stop offset="1" stop-color="#f1dab0"/></linearGradient><linearGradient id="hill" x2="1" y2="1"><stop stop-color="#728477"/><stop offset="1" stop-color="#3c645d"/></linearGradient></defs>
+<path fill="url(#sky)" d="M0 0h900v900H0z"/><circle cx="670" cy="285" r="92" fill="#d98853"/>
+<path d="M0 530 170 340 305 500 470 310 690 560 900 350V900H0" fill="#a4afa0"/>
+<path d="m0 600 190-170 130 150 220-160 200 180 160-70v370H0" fill="url(#hill)"/>
+<path d="M0 700q200-230 410-30t490-60v290H0" fill="#284e43"/>
+<path d="M450 900q-30-100 115-170t-70-140q110 60 25 125t70 185" fill="#daca9e"/>
+<text x="65" y="95" fill="#284637" font-family="Arial,sans-serif" font-size="15" letter-spacing="5">A LITTLE ROOM FOR ADVENTURE</text>
+<text x="60" y="195" fill="#284637" font-family="Georgia,serif" font-size="90">Take the</text><text x="60" y="285" fill="#284637" font-family="Georgia,serif" font-style="italic" font-size="90">long way.</text>
+<text x="65" y="845" fill="#ede9d4" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">LESS SCROLLING. MORE WANDERING.</text></svg>

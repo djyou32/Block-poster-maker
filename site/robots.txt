@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://djyou32.github.io/Block-poster-maker/sitemap.xml
